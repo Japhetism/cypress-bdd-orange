@@ -45,5 +45,6 @@ module.exports = defineConfig({
     video: false,
     setupNodeEvents,
     experimentalInteractiveRunEvents: true,
+    chromeWebSecurity: false
   },
 });
